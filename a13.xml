@@ -8,7 +8,7 @@
 <!--8895-->
 
 
-<project remote="github" revision="lineage-20.0" path="device/samsung/dream2lte" name="8890q/android_device_samsung_greatlte"/>
+<project remote="github" revision="lineage-20.0" path="device/samsung/dream2lte" name="8890q/android_device_samsung_dream2lte"/>
 
 <project remote="github" revision="lineage-20.0" path="device/samsung/universal8895-common" name="8890q/android_device_samsung_universal8895-common"/>
 
