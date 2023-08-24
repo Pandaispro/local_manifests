@@ -1,6 +1,6 @@
 <manifest>
 <!--  a70q  -->
-<project path="device/samsung/a70q" name="rtd1250/android_device_samsung_a70q" remote="github" revision="lineage-20"/>
+<project path="device/samsung/a70q" name="rtd1250/android_device_samsung_a70q" remote="github" revision="rising"/>
 <project path="kernel/samsung/sm6150" name="rtd1250/android_kernel_samsung_sm6150" remote="github" revision="lineage-20"/>
 <project path="vendor/samsung/a70q" name="rtd1250/proprietary_vendor_samsung_a70q" remote="github" revision="lineage-20"/>
 <!--  hw/samsung  -->
