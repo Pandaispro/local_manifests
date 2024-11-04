@@ -1,7 +1,7 @@
 <manifest>
 <!--  a70q/a70s  -->
-<project path="device/samsung/a70q" name="Pandaispro/android_device_samsung_a70q" remote="github" revision="lineage-21"/>
-<project path="device/samsung/sm6150-common" name="Pandaispro/android_device_samsung_sm6150-common" remote="github" revision="lineage-21"/>
+<project path="device/samsung/a70q" name="Pandaispro/android_device_samsung_a70q" remote="github" revision="infinity"/>
+<project path="device/samsung/sm6150-common" name="Pandaispro/android_device_samsung_sm6150-common" remote="github" revision="infinity"/>
 <project path="kernel/samsung/sm6150" name="/LineageOS/android_kernel_samsung_sm6150" remote="github" revision="lineage-21"/>
 <project path="vendor/samsung/a70q" name="a70q-lineage/proprietary_vendor_samsung_a70q" remote="github" revision="lineage-21"/>
 <project path="vendor/samsung/sm6150-common" name="a70q-lineage/proprietary_vendor_samsung_sm6150-common" remote="github" revision="lineage-21"/>
